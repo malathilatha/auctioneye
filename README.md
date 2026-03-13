@@ -33,7 +33,7 @@ No screen to stare at. No typing. The intelligence is invisible — nobody aroun
 
 ## Architecture
 
-![AuctionEye Architecture](architecture.png)
+![AuctionEye Architecture](AuctionEye_Architecture.png)
 
 Three focused agents — each does one job, each does it well:
 
