@@ -143,7 +143,7 @@ cd auctioneye
 # Install Dependencies
 
 ```
-pip install google-genai google-cloud-firestore opencv-python pillow pyttsx3 google-search-results sounddevice numpy
+pip install google-genai google-cloud-firestore google-search-results opencv-python opencv-python-headless requests pillow pyttsx3 sounddevice python-dotenv 
 ```
 
 ---
