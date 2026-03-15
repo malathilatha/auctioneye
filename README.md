@@ -37,13 +37,6 @@ At every flea market, sellers know exactly what their items are worth. Buyers al
 
 ## App Screenshot
 
-> 📸 **How to capture this image:**
-> 1. Run `python ui.py`
-> 2. Point camera at any real item (bracelet, watch, figurine)
-> 3. Press `SPACE` and wait for analysis to complete
-> 4. When item name + eBay range + offer price + verdict badge are all visible — take screenshot (`Win + Shift + S`)
-> 5. Save as `screenshot.png` in the project root, push to GitHub, then **delete this instruction block**
-
 ![AuctionEye — live scan result showing item identification, eBay price range, offer price and verdict](screenshot.png)
 
 ---
