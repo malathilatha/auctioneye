@@ -43,7 +43,7 @@ Watch the demo video here:
 
 # Architecture
 
-![AuctionEye Architecture](AuctionEye Architecture.png)
+![AuctionEye Architecture](AuctionEye_Architecture.png)
 
 ---
 
