@@ -10,7 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-Submitted to the **[Gemini Live Agent Challenge 2026](https://geminiliveagentchallenge.devpost.com)** — Live Agents Category
+Submitted to the **Gemini Live Agent Challenge 2026** — Live Agents Category
 
 `#GeminiLiveAgentChallenge`
 
@@ -223,6 +223,6 @@ auctioneye/
 
 <div align="center">
 
-Built for the [Gemini Live Agent Challenge 2026](https://geminiliveagentchallenge.devpost.com)
+Built for the Gemini Live Agent Challenge 2026
 
 </div>
