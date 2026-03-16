@@ -27,12 +27,9 @@ At every flea market, sellers know exactly what their items are worth. Buyers al
 **AuctionEye closes that gap. Invisibly. In real time. Through your earphone.**
 
 ---
-
 ## Demo
 
-> 🎬 **[Watch 4-minute demo on YouTube](#)**
-> *(Replace `#` with your YouTube URL before submitting)*
-
+> 🎬 **[Watch 4-minute demo on YouTube](https://youtu.be/Tt-hUL6TSW0?si=KWed0MQVdhKtSh2G)**
 ---
 
 ## App Screenshot
@@ -207,8 +204,6 @@ auctioneye/
 ├── .env.example                # Environment variable template
 ├── AuctionEye_Architecture.png # System architecture diagram
 ├── screenshot.png              # App screenshot — add before submitting
-├── LICENSE                     # MIT License
-├── .gitignore                  # Hides credentials and API keys
 └── README.md
 ```
 
