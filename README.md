@@ -34,7 +34,7 @@ At every flea market, sellers know exactly what their items are worth. Buyers al
 
 ## App Screenshot
 
-![AuctionEye — live scan result showing item identification, eBay price range, offer price and verdict](screenshot.png)
+![AuctionEye — live scan result showing item identification, eBay price range, offer price and verdict](AuctionEye_UI.png)
 
 ---
 
