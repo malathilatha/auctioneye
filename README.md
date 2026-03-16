@@ -140,18 +140,18 @@ Or set them directly:
 
 *Windows*
 ```cmd
-set GEMINI_API_KEY=your_gemini_api_key_here
+set GEMINI_KEY=your_gemini_api_key_here
 set SERPAPI_KEY=your_serpapi_key_here
 ```
 
 *Mac / Linux*
 ```bash
-export GEMINI_API_KEY=your_gemini_api_key_here
+export GEMINI_KEY=your_gemini_api_key_here
 export SERPAPI_KEY=your_serpapi_key_here
 ```
 
 Get your keys here:
-- Gemini API key → [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+- Gemini Api key → [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 - SerpApi key → [serpapi.com](https://serpapi.com) *(100 free searches per month)*
 
 **4. Set up Firestore**
@@ -203,7 +203,7 @@ auctioneye/
 ├── setup.sh                    # Automated setup script (IaC)
 ├── .env.example                # Environment variable template
 ├── AuctionEye_Architecture.png # System architecture diagram
-├── screenshot.png              # App screenshot — add before submitting
+├── AuctionEye_UI.png              # App screenshot — add before submitting
 └── README.md
 ```
 
