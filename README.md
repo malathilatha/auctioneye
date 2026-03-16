@@ -45,7 +45,7 @@ AuctionEye has two modes activated by keyboard:
 ### `SPACE` — Scan Mode
 Point the camera at any item and press `SPACE`. The agent identifies the item visually, fetches real eBay sold prices, and whispers the result in your earphone within 10 seconds.
 
-> *"Vintage pink Pyrex bowl. eBay range $28 to $65. Offer $17. Strong buy — pink pattern is collectible."*
+> *"Seiko 5. eBay range $75 to $269. Offer $57. Strong buy."*
 
 ### `V` — Live Voice Mode
 Press `V` to activate **Gemini Live API** — a fully bidirectional voice and vision session. Speak naturally while the agent watches through your camera in real time.
@@ -57,7 +57,7 @@ Press `V` to activate **Gemini Live API** — a fully bidirectional voice and vi
 ### `Q` — Session Report
 Press `Q` at the end of the day to hear a spoken summary of everything scanned.
 
-> *"You scanned 4 items and had 2 voice conversations today. Best deal: cast iron skillet. Potential savings: $89 versus retail."*
+> *"You scanned 1 item and had 1 voice conversations today. Best deal: golden beckoning cat. Potential savings: $99 versus retail prices."*
 
 ---
 
